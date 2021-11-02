@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">samplePhoneApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_text">Send Notification</string>
+    <string name="notification_title">Sample Notification!</string>
+    <string name="notification_text">We are sending a sample Notification to default channel</string>
+    <string name="sample_notification_channel_id">fcm_default_channel</string>
+    <string name="sample_notification_channel_name">Default Channel</string>
+    <string name="sample_notification_channel_desc">some description</string>
+    <string name="sample_notification_channel_wearable">wearable-specific</string>
+    <string name="message_checking">Checking for Wear Devices for app…</string>
+    <string name="message_missing_all">You are missing the Wear app on all your Wear Devices</string>
+    <string name="message_some_installed">Wear app installed on some your device(s) (%1$s)!</string>
+    <string name="message_all_installed">Wear app installed on all your devices (%1$s)!</string>
+    <string name="button_data_send">Send data message to watch</string>
+</resources>

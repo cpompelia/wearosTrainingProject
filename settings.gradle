@@ -1,0 +1,3 @@
+rootProject.name = "WearOSSample"
+include ':sampleWearableApp'
+include ':samplePhoneApp'
